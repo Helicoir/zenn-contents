@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Helicoir/zenn-contents/issues"
   },
-  "homepage": "https://github.com/Helicoir/zenn-contents#readme"
+  "homepage": "https://github.com/Helicoir/zenn-contents#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.101"
+  }
 }
